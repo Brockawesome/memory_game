@@ -1,0 +1,35 @@
+.hidden {
+  color: white;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+h1 {
+  font-family: helvetica, sans-serif;
+  font-weight: bold;
+  color: #14CC9E;
+}
+
+.btn {
+  background: #14CC9E;
+}
+.btn:hover {
+  background: #FF40C1;
+}
+.row {
+  /* background: #363636; */
+  height: 200px;
+  margin: 20px;
+  padding: 30px;
+  color: #BA14CC;
+}
+
+}
+.card {
+  width: 200px;
+  height: 200px;
+  padding: 30px;
+  background: white;
+}
